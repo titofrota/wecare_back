@@ -27,6 +27,8 @@ gem 'rack-cors'
 
 gem 'rubocop'
 
+gem 'active_model_serializers'
+
 group :test do
   gem 'shoulda-matchers'
   gem 'simplecov'
